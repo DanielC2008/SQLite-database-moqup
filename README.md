@@ -1,1 +1,1 @@
-# SQLite-database-moqup
+# SQLite-database-moqup for Northwind Database structure.
